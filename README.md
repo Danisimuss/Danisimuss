@@ -1,6 +1,6 @@
 - 👋 Привет, я @Danisimuss (Данисимус)
 - 👀 Меня интересует Python, анализ данных
-- 🧠 Стек: Pandas, SQL, Power BI, Excel
+- 🧠 Стек: Python, Pandas, SQL, Power BI, Excel
 - 🌐 Сайт-визитка c портфолио и описанием: dpanalyst.ru
 - 📚 Учусь в ВШЭ
 - 📫 Со мной можно связаться по почте danilaprokopenko207@gmail.com или @Danisimusik в тг
